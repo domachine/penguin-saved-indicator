@@ -18,5 +18,14 @@
   },
   "peerDependencies": {
     "penguin.js": "^1.0.0-rc.13"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domachine/penguin-saved-indicator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/domachine/penguin-saved-indicator/issues"
+  },
+  "homepage": "https://github.com/domachine/penguin-saved-indicator#readme"
 }
