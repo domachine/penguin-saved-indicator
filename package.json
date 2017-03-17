@@ -1,6 +1,6 @@
 {
   "name": "penguin-saved-indicator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple saved state indicator for penguin.js",
   "module": "index.js",
   "scripts": {
@@ -8,7 +8,10 @@
     "watch": "rollup -w -c rollup.config.js -o index.js src/index.js",
     "prepublishOnly": "rollup -c rollup.config.js -o index.js src/index.js"
   },
-  "keywords": ["penguinjs", "penguinjs-component"],
+  "keywords": [
+    "penguinjs",
+    "penguinjs-component"
+  ],
   "author": "Dominik Burgdörfer <db@domachine.de> (https://domachine.de/)",
   "license": "MIT",
   "devDependencies": {
